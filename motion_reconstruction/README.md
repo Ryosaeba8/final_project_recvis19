@@ -25,7 +25,6 @@ You could also directly execute the notebook in the previous folder which includ
 
 
 ### Citation
-If you use this code for your research, please consider citing:
 All credits goes to the original paper:
 
 SFV: Reinforcement Learning of Physical Skills from Videos  
