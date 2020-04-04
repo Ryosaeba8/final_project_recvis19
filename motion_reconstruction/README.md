@@ -33,4 +33,3 @@ Transactions on Graphics (Proc. ACM SIGGRAPH Asia 2018)
 Xue Bin Peng, Angjoo Kanazawa, Jitendra Malik, Pieter Abbeel, Sergey Levine  
 University of California, Berkeley
 [Project Page](https://xbpeng.github.io/projects/SFV/index.html)
-![Teaser Image](resources/motion_reconst.jpg)
