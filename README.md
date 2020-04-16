@@ -15,9 +15,9 @@ https://drive.google.com/file/d/145UBFXHlar7yP52eRXRplnO4OD6k14ph/view?usp=shari
 
 ## Steps to run:
 0. install the requirements packages.
-1. `python -m run_openpose`
-2. `python -m refine_video`
-3. `python -m ref_2`
+1. `python -m run_openpose.py`
+2. `python -m refine_video.py`
+3. `python -m ref_2.py`
 
 You could also directly execute the notebook in the previous folder which include all the steps
 
